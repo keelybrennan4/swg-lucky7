@@ -1,7 +1,6 @@
 body {
-    text-align: cenrter;
     font-family: 'Playfair Display', serif;
-    margin: 4em;
+    margin: 2em;
     height: 100%;
     background-color: teal;
     color: white;
@@ -12,11 +11,6 @@ body {
     color: black;
     padding: 0px 20px;
     margin-bottom: 30px;
-}
-
-
-#results {
-    align-content: center;
 }
 
 tbody {
